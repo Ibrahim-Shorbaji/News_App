@@ -72,7 +72,7 @@ A RESTful API backend for a News Management System with role-based access contro
 | **Authentication** | JWT (jjwt) | 0.11.5 |
 | **Server** | Tomcat | 9.x |
 | **Build Tool** | Maven | 3.6+ |
-| **API Documentation** | Springdoc OpenAPI | 2.2.0 |
+| **API Documentation** | Springdoc OpenAPI | 2.8.9 |
 
 ---
 
@@ -647,9 +647,7 @@ Error: Port 8090 is already in use
 
 ---
 
-## License
 
-© AppsWave 2024 - All Rights Reserved
 
 ---
 
